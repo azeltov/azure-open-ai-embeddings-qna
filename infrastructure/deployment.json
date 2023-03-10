@@ -156,7 +156,7 @@
   },
   "variables": {
     "ContainerImageName": "redis/redis-stack-server:latest",
-    "WebAppImageName": "DOCKER|fruocco/oai-embeddings",
+    "WebAppImageName": "DOCKER|fruocco/oai-embeddings:2023-03-09_16",
     "BlobContainerName": "documents",
     "FileShareName": "redisdata",
     "QueueName": "doc-processing",
